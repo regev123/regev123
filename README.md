@@ -100,20 +100,6 @@ A modular & pluggable mathematical computation engine.
 
 ---
 
-# 🧭 Architecture Diagrams
-
-### **Microservices Workflow Diagram**
-<p align="center">
-  <img src="https://github.com/regev123/regev123/blob/main/assets/microservices-diagram.png" width="700" />
-</p>
-
-### **Event-Driven Flow (Kafka)**
-<p align="center">
-  <img src="https://github.com/regev123/regev123/blob/main/assets/event-driven-diagram.png" width="700" />
-</p>
-
----
-
 # 📬 Connect With Me
 
 <p align="center">
