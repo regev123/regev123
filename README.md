@@ -69,6 +69,14 @@ My passion revolves around:
 
 # 🧩 Featured Projects
 
+### 🔗 **Shortify**
+A scalable TinyURL generator using hashing, Redis caching,  
+and high-performance REST API.
+
+🔗 **Repo:** https://github.com/regev123/Shortify
+
+---
+
 ### 🍽️ **Spring Boot Microservices Restaurant**
 A fully distributed restaurant ordering system with  
 API Gateway, Config Server, Service Registry, Kafka, and resilient microservices.
@@ -82,14 +90,6 @@ High-performance job scheduling system with concurrency, cron expressions,
 message-driven workflows, and distributed execution.
 
 🔗 **Repo:** https://github.com/regev123/job-scheduler-microservice
-
----
-
-### 🔗 **TinyURL Service**
-A scalable TinyURL generator using hashing, Redis caching,  
-and high-performance REST API.
-
-🔗 **Repo:** https://github.com/regev123/tinyurl-service
 
 ---
 
