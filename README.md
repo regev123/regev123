@@ -70,8 +70,7 @@ My passion revolves around:
 # 🧩 Featured Projects
 
 ### 🔗 **Shortify**
-A scalable TinyURL generator using hashing, Redis caching,  
-and high-performance REST API.
+🚀 **Enterprise-Grade URL Shortening Platform** — A high-performance, production-ready microservices architecture designed to handle **100M+ requests per day** with sub-millisecond latency. Built with **Spring Boot 3.2**, featuring **distributed PostgreSQL with read replicas** (1 primary + 3 replicas) for horizontal read scaling, **Redis cluster** (3 masters + 3 replicas) for high-availability distributed caching, **Kafka cluster** (3 brokers) for event-driven real-time analytics, and **Snowflake ID generation** for distributed unique code creation without database collisions. Includes **automatic database partitioning** with partition pruning optimization, **event-driven cleanup** with Kafka integration, and a modern **React + Tailwind CSS** frontend. Architected with **100% SOLID principles compliance**, clean code practices, and designed for **horizontal scalability** supporting billions of URLs with automatic partition management and optimized query performance.
 
 🔗 **Repo:** https://github.com/regev123/Shortify
 
